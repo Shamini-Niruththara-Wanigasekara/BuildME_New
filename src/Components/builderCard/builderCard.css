@@ -1,0 +1,11 @@
+.builder-card{
+    width: 246px;
+    height: 328px;
+    border-radius: 33px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
